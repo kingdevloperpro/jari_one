@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Chat AI</string>
+    <string name="say">Say "Hi"</string>
+
+    <string name="first_check">I understand that sharing of inappropriate content will not be tolerated.</string>
+    <string name="second_check">I confirm that I\'m 18 years old or above.</string>
+    <string name="pp"><p style="padding-top: 25px">\tI agree with all <a href="https://pazabiullapolicy.blogspot.com/2023/07/privacy-policy.html">Term and Condiation</a></p></string>
+    <string name="age_group_one"><b>18-35</b> (Young Adult)</string>
+    <string name="age_group_two"><b>36-49</b> (Aged Adult)</string>
+    <string name="age_group_three"><b>50+</b> (Older Adult)</string>
+    <string name="age_group_head"><b>Prefer Age : </b>Select Your Age</string>
+
+    <string name="stronboarding1">Call Santa</string>
+    <string name="stronboarding2">Chat Santa</string>
+    <string name="stronboarding3">Schedule Call</string>
+
+    <string name="strsubonboarding1">Video message or phone call from Santa Claus for free. Let your child experience the joy of Christmas with Chat Santa!</string>
+    <string name="strsubonboarding2">Chat with Santa Claus for free. Give your child a Christmas they\'ll never forget!</string>
+    <string name="strsubonboarding3">schedule video call with Santa Claus for free. Make Christmas magical for your child!</string>
+
+
+
+</resources>
